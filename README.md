@@ -15,7 +15,7 @@
 ## <a name="description-du-jeu"></a>**Description du Jeu**
 Le jeu de plateau met en scène 4 personnages,chacun ayant les mêmes caractéristiques : force, vie et d’agilité , mais avec des statistiques différentes.Les joueurs se lancent dans une aventure où ils rencontrent des ennemis , des objets bonus et des événements aléatoires. Les déplacements et les combats sont résolus par un système de jets de dés, avec différentes attaques possibles. Le but ultime est d’atteindre le laboratoire pour accéder au vaccin.
 
-![Jeu]
+![Jeu](img/wiki_page/jeu.png)
 ## <a name="installation-et-lancement-rapide"></a>**Installation et Lancement Rapide**
 1. **Prérequis** :
 - Assurez-vous d’avoir Python installé sur votre ordinateur.
@@ -121,18 +121,17 @@ Quand le joueur arrive au dernier déplacement sur un objet, un texte apparaît 
 
 le joueur arrivé à la dernière case à gagné,ce qui lance une interface et met fin à la partie.
 ## <a name="illustration-dune-partie"></a>**Illustration d’une partie**
-![nbr_joueur][Jeu]
+![nbr_joueur](img/wiki_page/nbr_joueur.png)
+![choisir_classe](img/wiki_page/choisir_classe.png)
+![Jeu](img/wiki_page/jeu.png)
 
-![choisir_classe][Jeu]
-
-![Jeu]
 # **Quand on appuie sur Échap, le menu de pause s’affiche.**
-![pause][Jeu]
+![pause](img/wiki_page/pause.png)
 # **Exemple quand on active un événement.**
-![evenement_wiki][Jeu]
+![evenement_wiki](img/wiki_page/evenement_wiki.png)
 # **Exemple quand on combat un ennemi.**
-![combat_wiki][Jeu]
+![combat_wiki](img/wiki_page/combat_wiki.png)
 # **Exemple quand on fini la partie.**
-![fini_partie][Jeu]
+![fini_partie](img/wiki_page/fini_partie.png)
 
 [Jeu]: Aspose.Words.31921052-7389-48f2-8b08-cec480984191.001.png
